@@ -4,7 +4,9 @@ This README.MD supports a templated repository that users can use to efficiently
 
 # How To Use
 
-Professionals who have an interest in quickly sharing a polished version of their resume online, should fork this repository and clone it to a local working space. Alternatively users can download this repository’s base template files manually from GitHub.
+Professionals who have an interest in quickly sharing a polished version of their resume online, should copy this repository's `.gitignore`, `index.qmd`, `README.md`, and `_quarto.yml` files to a new local directory (and then also initiate that directory as a new git repository and push it to GitHub). This means, in practice, downloading this repository’s base template files manually from GitHub to set up a new repository.
+
+Alternatively, users can fork this repository and clone it to a local working space. 
 
 From there, use the series of suggested prompts below (within an agentic IDE) to build a professional resume in website form using Quarto.
 
